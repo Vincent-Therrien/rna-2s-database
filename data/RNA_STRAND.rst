@@ -1,5 +1,5 @@
-ArchiveII Dataset
-=================
+RNA_STRAND Dataset
+==================
 
 Repository URL: https://github.com/Vincent-Therrien/rna-2s-database/tree/main/data
 
